@@ -5,7 +5,10 @@
 <h1 align="center">Delegasi dan Event</h1>
 <!-- Garis Lurus -->
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
-<!-- End -->
+<!-- End -->'
+
+![Program Table](https://user-images.githubusercontent.com/87259393/205472345-ebb2550e-39b9-4ac4-9139-52ec2a31598c.png)
+
 
 ![Bukti Screenshot Program dan Running](https://user-images.githubusercontent.com/87259393/205471463-77093332-bcfe-4864-92ca-61f29f6cfbd2.png)
 
