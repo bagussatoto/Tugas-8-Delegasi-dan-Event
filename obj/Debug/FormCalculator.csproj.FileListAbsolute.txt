@@ -1,0 +1,12 @@
+C:\Users\VIVOBOOK\source\repos\FormCalculator\FormCalculator\obj\Debug\FormCalculator.csproj.AssemblyReference.cache
+C:\Users\VIVOBOOK\source\repos\FormCalculator\FormCalculator\obj\Debug\FormCalculator.csproj.SuggestedBindingRedirects.cache
+C:\Users\VIVOBOOK\source\repos\FormCalculator\FormCalculator\obj\Debug\FormCalculator.FormCalculator.resources
+C:\Users\VIVOBOOK\source\repos\FormCalculator\FormCalculator\obj\Debug\FormCalculator.ForrmEntryCalculator.resources
+C:\Users\VIVOBOOK\source\repos\FormCalculator\FormCalculator\obj\Debug\FormCalculator.Properties.Resources.resources
+C:\Users\VIVOBOOK\source\repos\FormCalculator\FormCalculator\obj\Debug\FormCalculator.csproj.GenerateResource.cache
+C:\Users\VIVOBOOK\source\repos\FormCalculator\FormCalculator\obj\Debug\FormCalculator.csproj.CoreCompileInputs.cache
+C:\Users\VIVOBOOK\source\repos\FormCalculator\FormCalculator\bin\Debug\FormCalculator.exe.config
+C:\Users\VIVOBOOK\source\repos\FormCalculator\FormCalculator\bin\Debug\FormCalculator.exe
+C:\Users\VIVOBOOK\source\repos\FormCalculator\FormCalculator\bin\Debug\FormCalculator.pdb
+C:\Users\VIVOBOOK\source\repos\FormCalculator\FormCalculator\obj\Debug\FormCalculator.exe
+C:\Users\VIVOBOOK\source\repos\FormCalculator\FormCalculator\obj\Debug\FormCalculator.pdb
