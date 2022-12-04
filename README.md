@@ -7,7 +7,22 @@
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
 
-0000
+![Bukti Screenshot Program dan Running](https://user-images.githubusercontent.com/87259393/205471463-77093332-bcfe-4864-92ca-61f29f6cfbd2.png)
+
+
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+
+ 
+ ## Pengertian Delegasi
+ `` 
+ Delegasi meruapakan pointer refrence dari suatu method. Delegate dapat membuat kita menjadikan sebuah method menjadi variabel dan melempar sebuah method sebagai sebuah variable ketika melakukan callback. Ketika method ini dipanggil, maka sistem akan menotifikasi seluruh metode yang merefer ke delegate. Analoginya mirip dengan subscription. Semua method yang melakukan subscription akan diupdate secara otomatis. Delegate sangat bermanfaat untuk invoke method dalam jumlah banyak dalam satu event runtime dan digunakan untuk trigger callback method.
+ ``
+## Pengertian Event 
+``
+Event merupakan tipe spesial dari delegates yang dapat digunakan untuk menotifikasi kelas lainnya ketika sesuatu terjadi. Contohnya ketika button shoot dipencet, event akan memberikan notifikasi kepada kelas peluru dan kelas jumlah peluru untuk melakukan aksinya masing-masing. Event bisa di deklarasi menggunakan delegates. Ini adalah contoh sintaksnya.
+``
+
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
 
@@ -16,10 +31,6 @@
 - Kelas 21 Informatika 04
 - Falkultas Ilmu Komputer 
 - Kampus Universitas Amikom Yogyakarta
-
-<!-- Garis Lurus -->
-<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
-<!-- End -->
 
 
 <!-- Garis Lurus -->
