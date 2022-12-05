@@ -25,6 +25,12 @@
 ``
 Event merupakan tipe spesial dari delegates yang dapat digunakan untuk menotifikasi kelas lainnya ketika sesuatu terjadi. Contohnya ketika button shoot dipencet, event akan memberikan notifikasi kepada kelas peluru dan kelas jumlah peluru untuk melakukan aksinya masing-masing. Event bisa di deklarasi menggunakan delegates. Ini adalah contoh sintaksnya.
 ``
+<img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
+<!-- End -->
+
+## Refrensi dari 
+[Tugas Calculator App](https://github.com/bagussatoto/TugasCalculatorPemLanjut)
+
 
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" alt="javascript" width="1000"/> 
 <!-- End -->
